@@ -12,6 +12,72 @@
 </div>
 
 ---
+<!-- Row 1: Identify the Challenge -->
+<table style="width: 100%; border-collapse: collapse; font-family: sans-serif;">
+  <tr>
+    <td style="width: 200px; text-align: center; vertical-align: top; padding: 40px;">
+      <div style="font-size: 80px; margin-bottom: 10px;">🔍</div>
+      <img src="identify.png" width="150" alt="Identify" />
+    </td>
+    <td style="padding: 40px; vertical-align: top;">
+      <h2 style="color: #2563eb; display: flex; align-items: center; gap: 10px; margin-top: 0;">
+        <span style="font-size: 24px;">🔍</span> 1. Identify the Challenge
+      </h2>
+      <p>
+        Like many parents, when my daughter asks for a fun learning activity, I end up searching the internet for something age-appropriate and educational.
+        It takes time, often leads to generic results, and doesn't always match what she's learning in school.
+      </p>
+      <div style="font-size: 20px;">🎯 🌐 🤖 🎓</div>
+    </td>
+  </tr>
+</table>
+
+<!-- Row 2: Engineer the Approach -->
+<table style="width: 100%; border-collapse: collapse; font-family: sans-serif; background-color: #f9f9f9;">
+  <tr>
+    <td style="padding: 40px; vertical-align: top;">
+      <h2 style="color: #16a34a; display: flex; align-items: center; gap: 10px; margin-top: 0;">
+        <span style="font-size: 24px;">⚙️</span> 2. Engineer the Approach
+      </h2>
+      <p>
+        VicEduTutor uses <strong>AI and local LLMs</strong> to instantly generate custom learning activities based on:
+        <ul>
+          <li>Child’s year level</li>
+          <li>Subject (e.g., Science, Maths)</li>
+          <li>Type of activity (Story, Quiz, Worksheet)</li>
+        </ul>
+      </p>
+      <p>
+        All done <strong>offline</strong>, without needing an internet connection—ensuring fast, private, and curriculum-aligned content generation at home or on the go.
+      </p>
+      <div style="font-size: 20px;">🧠 📚 🧠 🔍 📄</div>
+    </td>
+    <td style="width: 200px; text-align: center; vertical-align: top; padding: 40px;">
+      <div style="font-size: 80px; margin-bottom: 10px;">⚙️</div>
+      <img src="support.png" width="150" alt="Support" />
+    </td>
+  </tr>
+</table>
+
+<!-- Row 3: Implement the Outcome -->
+<table style="width: 100%; border-collapse: collapse; font-family: sans-serif;">
+  <tr>
+    <td style="width: 200px; text-align: center; vertical-align: top; padding: 40px;">
+      <div style="font-size: 80px; margin-bottom: 10px;">✅</div>
+      <img src="empower.png" width="150" alt="Empower" />
+    </td>
+    <td style="padding: 40px; vertical-align: top;">
+      <h2 style="color: #dc2626; display: flex; align-items: center; gap: 10px; margin-top: 0;">
+        <span style="font-size: 24px;">✅</span> 3. Implement the Outcome
+      </h2>
+      <p>
+        Get a personalized, downloadable PDF activity in seconds—no ads, no scrolling, just relevant, curriculum-aligned learning that fits your child’s needs.
+        Perfect for busy parents or teachers who want smart, fast, offline educational content that matches school standards.
+      </p>
+      <div style="font-size: 20px;">📄 ✅ 📱 🎯 🎉</div>
+    </td>
+  </tr>
+</table>
 
 ## ✨ Features
 
