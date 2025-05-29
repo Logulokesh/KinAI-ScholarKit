@@ -16,8 +16,7 @@
 <table style="width: 100%; border-collapse: collapse; font-family: sans-serif;">
   <tr>
     <td style="width: 200px; text-align: center; vertical-align: top; padding: 40px;">
-      <div style="font-size: 80px; margin-bottom: 10px;">🔍</div>
-      <img src="identify.png" width="150" alt="Identify" />
+      <img src="identify.png" width="180" alt="Identify" />
     </td>
     <td style="padding: 40px; vertical-align: top;">
       <h2 style="color: #2563eb; display: flex; align-items: center; gap: 10px; margin-top: 0;">
@@ -53,8 +52,7 @@
       <div style="font-size: 20px;">🧠 📚 🧠 🔍 📄</div>
     </td>
     <td style="width: 200px; text-align: center; vertical-align: top; padding: 40px;">
-      <div style="font-size: 80px; margin-bottom: 10px;">⚙️</div>
-      <img src="support.png" width="150" alt="Support" />
+      <img src="support.png" width="180" alt="Support" />
     </td>
   </tr>
 </table>
@@ -63,8 +61,7 @@
 <table style="width: 100%; border-collapse: collapse; font-family: sans-serif;">
   <tr>
     <td style="width: 200px; text-align: center; vertical-align: top; padding: 40px;">
-      <div style="font-size: 80px; margin-bottom: 10px;">✅</div>
-      <img src="empower.png" width="150" alt="Empower" />
+      <img src="empower.png" width="180" alt="Empower" />
     </td>
     <td style="padding: 40px; vertical-align: top;">
       <h2 style="color: #dc2626; display: flex; align-items: center; gap: 10px; margin-top: 0;">
