@@ -2,10 +2,12 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
-![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Ollama](https://img.shields.io/badge/ollama-compatible-orange.svg)
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/release/python-380/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://docs.streamlit.io/1.28.0/)
+[![MIT License](https://img.shields.io/badge/License-MIT-00C851?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Ollama](https://img.shields.io/badge/Ollama-Compatible-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.ai/)
+[![100% Offline](https://img.shields.io/badge/100%25-OFFLINE-9C27B0?style=for-the-badge)](https://github.com/ollama/ollama)
+
 
 **An interactive web application that generates educational activities aligned with the Victorian Curriculum F–10 Version 2.0**
 
