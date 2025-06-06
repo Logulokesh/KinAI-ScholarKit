@@ -4,8 +4,6 @@
 
 ### *LLM-Powered Curriculum-Aligned Educational Activity Generator*
 
----
-
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/release/python-380/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://docs.streamlit.io/1.28.0/)
 [![MIT License](https://img.shields.io/badge/License-MIT-00C851?style=for-the-badge)](https://opensource.org/licenses/MIT)
