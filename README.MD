@@ -14,7 +14,7 @@
 
 
 **An interactive web application that generates educational activities aligned with the Victorian Curriculum F–10 Version 2.0**
-
+</div>
 ---
 
 ## 🌟 Why KinAi-ScholarKit?
