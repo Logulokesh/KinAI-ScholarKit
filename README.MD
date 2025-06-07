@@ -14,6 +14,9 @@
 **An interactive web application that generates educational activities aligned with the Victorian Curriculum F–10 Version 2.0**
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Logulokesh/KinAI-ScholarKit/refs/heads/main/screenshots/Logo-5.gif" alt="KinAi-Nexpatrol" width="100%" />
+</p>
 
 ## 🌟 Why KinAi-ScholarKit?
 
