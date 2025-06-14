@@ -67,7 +67,7 @@
       </p>
     </td>
     <td style="width: 200px; text-align: center; vertical-align: top; padding: 40px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
-      <img src="support.png" width="400" height="200" alt="Support" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); object-fit: cover; display: block; margin: 0 auto;" />
+      <img src="support.png" width="350" height="200" alt="Support" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); object-fit: cover; display: block; margin: 0 auto;" />
     </td>
   </tr>
 </table>
