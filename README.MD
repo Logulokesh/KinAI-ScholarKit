@@ -67,7 +67,7 @@
       </p>
     </td>
     <td style="width: 200px; text-align: center; vertical-align: top; padding: 40px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
-      <img src="support.png" width="300" height="200" alt="Support" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); object-fit: cover; display: block; margin: 0 auto;" />
+      <img src="support.png" width="400" height="200" alt="Support" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); object-fit: cover; display: block; margin: 0 auto;" />
     </td>
   </tr>
 </table>
@@ -75,7 +75,7 @@
 <table style="width: 100%; border-collapse: collapse; font-family: sans-serif; margin: 20px 0; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; overflow: hidden;">
   <tr>
     <td style="width: 200px; text-align: center; vertical-align: top; padding: 40px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
-      <img src="empower.png"  width="400" height="200" alt="Empower" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); object-fit: cover; display: block; margin: 0 auto;" />
+      <img src="empower.png"  width="500" height="200" alt="Empower" style="border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); object-fit: cover; display: block; margin: 0 auto;" />
     </td>
     <td style="padding: 40px; vertical-align: top; background: #ffffff;">
       <h2 style="color: #dc2626; display: flex; align-items: center; gap: 10px; margin-top: 0; font-size: 1.5em;">
