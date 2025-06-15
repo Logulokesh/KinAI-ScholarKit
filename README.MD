@@ -1,22 +1,29 @@
-# 🎓 KinAi-ScholarKit
-
 <div align="center">
 
-### *LLM-Powered Curriculum-Aligned Educational Activity Generator*
+# 🎓⚡ KinAi-ScholarKit - AI Educational Activity Generator
 
-[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/release/python-380/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://docs.streamlit.io/1.28.0/)
-[![MIT License](https://img.shields.io/badge/License-MIT-00C851?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Ollama](https://img.shields.io/badge/Ollama-Compatible-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.ai/)
-[![100% Offline](https://img.shields.io/badge/100%25-OFFLINE-9C27B0?style=for-the-badge)](https://github.com/ollama/ollama)
+*LLM-Powered Curriculum-Aligned Learning Experience*
 
+**[ 🤖 AI-POWERED ] • [ 📚 CURRICULUM-ALIGNED ] • [ 🔒 OFFLINE-FIRST ]**
 
-**An interactive web application that generates educational activities aligned with the Victorian Curriculum F–10 Version 2.0**
-</div>
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Compatible-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![100% Offline](https://img.shields.io/badge/100%25-OFFLINE-9C27B0?style=for-the-badge)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Logulokesh/KinAI-ScholarKit/refs/heads/main/screenshots/Logo-5.gif" alt="KinAi-Nexpatrol" width="100%" />
+  <img src="https://raw.githubusercontent.com/Logulokesh/KinAI-ScholarKit/refs/heads/main/screenshots/Logo-5.gif" alt="KinAi-ScholarKit" width="100%" />
 </p>
+
+<p align="center">
+  <strong>🔍 FAISS • 🌐 NetworkX • 📄 ReportLab • 🤖 LLaMA3</strong>
+</p>
+
+---
+
+*Instantly generate personalized, curriculum-aligned educational activities that turn learning into adventure*
+
+</div>
 
 ## 🌟 Why KinAi-ScholarKit?
 
