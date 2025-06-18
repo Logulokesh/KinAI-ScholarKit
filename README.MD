@@ -397,7 +397,7 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 
 <div align="center" style="margin: 40px 0; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; color: white;">
 
----
+
 
 <div align="center">
 
