@@ -397,6 +397,24 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 
 <div align="center" style="margin: 40px 0; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; color: white;">
 
-<small>Made with ❤️ for educators, parents, and students everywhere</small>
+---
+
+<div align="center">
+
+[![Contributors](https://contrib.rocks/image?repo=Logulokesh/KinAI-Ecosystem)](https://github.com/Logulokesh/KinAI-Ecosystem/graphs/contributors)
+
+</div>
+
+---
+
+## 📄 License
+
+Yes, it’s completely free — just like a gesture of support 🤝, a nod of appreciation 👍, or a reassuring smile 😊.
+
+---
+
+<div align="center">
+
+**Built with passion ❤️ for privacy, intelligence, and automation**
 
 </div>
